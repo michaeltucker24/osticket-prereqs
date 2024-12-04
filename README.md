@@ -97,13 +97,16 @@ In this home lab, I will deploy and configure osTicket on an Azure Windows VM to
   - **Name Helpdesk**
   - **Default email** (receives emails from customers)
 
-  ![image](https://github.com/user-attachments/assets/cbc952f9-c638-4884-9aec-418cd252cbda)
+   ![382878991-cbc952f9-c638-4884-9aec-418cd252cbda](https://github.com/user-attachments/assets/16bcd46c-08d2-48a2-af28-a13561394169)
+
 
 ### 15. Set Up the MySQL Database
 - Open **HeidiSQL** and create a session using the username and password: **root/root**.
 - Create a new database called **osTicket**.
 
-  ![image](https://github.com/user-attachments/assets/75461acc-ed86-48f3-908c-7445d473c420)
+ 
+  ![382879181-75461acc-ed86-48f3-908c-7445d473c420](https://github.com/user-attachments/assets/e2b9c039-1505-484f-a4f3-059c9775a8c8)
+
 
 ### 16. Complete osTicket Setup
 - In the browser, configure MySQL details:
@@ -112,13 +115,16 @@ In this home lab, I will deploy and configure osTicket on an Azure Windows VM to
   - **MySQL Password:** root
 - Click **Install Now!**.
 
-  ![image](https://github.com/user-attachments/assets/e37438f7-9617-4072-9866-3e3a61030e76)
-  ![image](https://github.com/user-attachments/assets/11ecc5ea-ff67-4870-9727-90e9902f2a80)
+ 
+   ![382879223-e37438f7-9617-4072-9866-3e3a61030e76](https://github.com/user-attachments/assets/fca784b4-5792-490a-92c0-7e0498ff35a0)
+
 
 ### 17. Access osTicket
 - Once installed, access the help desk login page: **http://localhost/osTicket/scp/login.php**.
 
-  ![image](https://github.com/user-attachments/assets/0a1204e0-dd8e-41b5-9f0b-f2e4cbe96d49)
+ 
+  ![382879304-0a1204e0-dd8e-41b5-9f0b-f2e4cbe96d49](https://github.com/user-attachments/assets/1613089a-d683-488c-b456-7074cc16c544)
+
 
 - End User's osTicket URL: **http://localhost/osTicket/**.
 
