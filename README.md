@@ -122,7 +122,8 @@ In this home lab, I will deploy and configure osTicket on an Azure Windows VM to
 
 - End User's osTicket URL: **http://localhost/osTicket/**.
 
-  ![image](https://github.com/user-attachments/assets/dbe09db6-b0a5-44e2-b119-2611b7a46093)
+  
+![382879345-dbe09db6-b0a5-44e2-b119-2611b7a46093](https://github.com/user-attachments/assets/9fba12f7-28d6-467a-8203-de793c738df6)
 
 ## Takeaways and Key Skills Developed
 
